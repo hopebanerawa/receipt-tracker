@@ -1,0 +1,14 @@
+.streamlit/secrets.toml
+.env
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.DS_Store
+*.swp
+*.tmp
+.idea/
+.vscode/
+credentials.json
+token.json
